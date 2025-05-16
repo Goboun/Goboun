@@ -1,9 +1,8 @@
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
   <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Gob;He%2Fhim;Computer+Science+Student;French+Full-stack+Dev;Cat+Hater+%3E%3AO;JPop+Pop+Lover+%3C3;System.out.println('help+me')" 
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=7E3ACE&size=30&center=true&vCenter=true&width=450&lines=Welcome to my profile;I'm+Gob;He%2Fhim;Computer+Science+Student;French+Full-stack+Dev;Cat+Hater+%3E%3AO;JPop+Pop+Lover+%3C3;System.out.println('help+me')" 
          alt="Animated typing: Computer Science Student, French full-stack developer, Pop Lover">
   </a>
 </div>
