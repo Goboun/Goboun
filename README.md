@@ -48,15 +48,10 @@
 </details>
 
 <h2>:notes: Now playing</h2>
-<a href="https://open.spotify.com/user/2cd6dtalaqegepw98ji98zabw">
-  <img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify">
-</a>
+<li><a href="https://open.spotify.com/track/2ZzZzDaCjW7CK07RBUwMEm" target="_blank">Aimer – Brave Shine</a></li>
 
 <details>
-    <summary>Recently played</summary>
-    <a href="https://open.spotify.com/user/2cd6dtalaqegepw98ji98zabw">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=2cd6dtalaqegepw98ji98zabw&unique=true&count=10" alt="Spotify recently played">
-    </a>
+    <li><a href="https://open.spotify.com/track/2ZzZzDaCjW7CK07RBUwMEm" target="_blank">Aimer – Brave Shine</a></li>
 </details>
 
 <div align="center">
